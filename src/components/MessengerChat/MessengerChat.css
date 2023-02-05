@@ -1,0 +1,22 @@
+.MessengerChat{
+	
+	min-width: 100%;
+	min-height: 100%;
+	
+	/* border-bottom: 1px solid #dfdfdf; */
+}
+.massege{
+	
+	width: 100%;
+	
+}
+.userMassege{
+	display: flex;
+	justify-content: end;
+	font-size: large;
+}
+.botMassege{
+	display: flex;
+	justify-content:start;
+	font-size: large;
+}

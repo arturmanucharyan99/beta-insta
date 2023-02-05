@@ -1,0 +1,102 @@
+.reg{
+    display: flex;
+    justify-content: center;
+    width:350px ;
+    min-height: 550px;
+    background: white;
+    margin: auto;
+    
+    margin-top: 15px;
+    border: 1px solid rgba(126, 121, 121,0.3);
+    padding: 20px;
+
+}
+.forms form input{
+    background-color: rgba(149, 147, 147, 0.1);
+    border:none;
+    padding-left: 10px;
+    width: 90%;
+}
+.forms{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+.regImg{
+    margin: auto;
+    margin-top: 30px;
+    height: 60px;
+}
+
+
+.forms input{
+    height: 30px;
+    
+}
+
+.regText{
+    font-size:15px;
+    color: grey;
+    text-align: center;
+}
+.fbDiv{
+    margin: 20px;
+}
+.fbDiv button{
+    background-color:#27c4f5;
+    border-radius: 5px;
+    height: 30px;
+    width: 100%;
+    border: 1px solid #27c4f5 ;
+    color:white;
+    padding: 5px,5px,5px,5px;
+}
+
+.line{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.content{
+    border: 1px solid rgba(126, 121, 121,0.3);
+    width: 100px;
+    height: 1px;
+}
+.centerLine{
+    margin: 10px;
+    font-size: 15px;
+    color: rgba(126, 121, 121, 0.845);
+}
+.textBeforeSubmit p{
+    margin: 20px;
+    font-size: larger;
+    color: grey;
+}
+
+.buttonRegSubmit{
+    margin-bottom: 20px;
+   
+}
+.button{
+    width: 90%;
+}
+.logOrReg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 350px;
+    height: 100px;
+    background-color: white;
+    margin: auto;
+    margin-top: 15px;
+    border: 1px solid rgba(126, 121, 121,0.3);
+    font-size: 15px;
+}
+.logOrReg a{
+    text-decoration: none;
+    color: #27c4f5;
+}
+
+
